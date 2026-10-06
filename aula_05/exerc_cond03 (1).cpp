@@ -18,11 +18,11 @@ int main(){
 	
 	//utilizando condico em C++ para verificar se o numero e maior, menor ou igual a 10
 	if(sub == 0)
-		printf("O numero � igual a 0!");
+		printf("O numero  igual a 0!");
 	else if(sub < 10)
-		printf("O numero � menor que 10!");
+		printf("O numero e menor que 10!");
 	else
-		printf("O numero � maior que 10!");
+		printf("O numero e maior que 10!");
 		
 	return 0;
 }

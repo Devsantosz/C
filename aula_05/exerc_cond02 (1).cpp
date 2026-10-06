@@ -17,9 +17,10 @@ int main(){
 	soma = num1 + num2;
 	
 	if(soma > 10)
-		printf("O numero � maior que 10!");
+		printf("O numero e maior que 10!");
 	else
-		printf("O numero � menor ou igual a 10!");
+		printf("O numero e menor ou igual a 10!");
 		
 	return 0;
 }
+ 
