@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    // Vetores em c++
+    // O comando declara um vetor para armazenar notas de 10 alunos de uma turma:
     double vet[10];
 
     printf("%d", vet);
