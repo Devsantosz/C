@@ -8,7 +8,7 @@ int main(){
 	float media;
 	
 	printf("Qual a media do aluno? ");
-	scanf("%f", &media)
+	scanf("%f", &media);
 
 	//Aprendendo a utilizar o operador ternário e condicoes em C++
 	

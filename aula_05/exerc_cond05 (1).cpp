@@ -2,7 +2,6 @@
 #include <locale.h>
 
 int main(){
-	
 	setlocale(LC_ALL, "Portuguese");
 	
 	int idade;
@@ -10,7 +9,6 @@ int main(){
 	printf("Digite sua idade: ");
 	scanf("%d", &idade);
 
-	
 	if(idade < 18)
 		printf("Paga meia!");
 	else if(idade >= 18 && idade <= 59)
